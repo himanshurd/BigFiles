@@ -1,0 +1,2 @@
+ls -a ~/Desktop/BigFiles | tr -s " " | cut -d' ' -f 5,9 |sort -n -r
+

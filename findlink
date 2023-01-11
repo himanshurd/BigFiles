@@ -1,0 +1,1 @@
+curl echo $3 |grep -E '$[<a>]'
