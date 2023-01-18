@@ -1,2 +1,2 @@
-echo $2
+curl $1 --output $2
 
